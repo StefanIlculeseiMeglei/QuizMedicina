@@ -1,0 +1,9 @@
+D:\Repos\Quiz\Animale\NivelStocareData\bin\Debug\NivelStocareData.dll
+D:\Repos\Quiz\Animale\NivelStocareData\bin\Debug\NivelStocareData.pdb
+D:\Repos\Quiz\Animale\NivelStocareData\bin\Debug\LibrarieModele.dll
+D:\Repos\Quiz\Animale\NivelStocareData\bin\Debug\LibrarieModele.pdb
+D:\Repos\Quiz\Animale\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
+D:\Repos\Quiz\Animale\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
+D:\Repos\Quiz\Animale\NivelStocareData\obj\Debug\NivelSto.CEB66E05.Up2Date
+D:\Repos\Quiz\Animale\NivelStocareData\obj\Debug\NivelStocareData.dll
+D:\Repos\Quiz\Animale\NivelStocareData\obj\Debug\NivelStocareData.pdb

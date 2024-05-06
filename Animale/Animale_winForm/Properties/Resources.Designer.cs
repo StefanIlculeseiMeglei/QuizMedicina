@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Animale_Form.Properties
+namespace Quiz_Form.Properties
 {
 
 

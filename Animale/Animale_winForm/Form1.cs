@@ -14,7 +14,7 @@ using System.Windows.Forms;
 using System.Media;
 using System.CodeDom;
 
-namespace Animale_Form
+namespace Quiz_Form
 {
     public partial class Form1 : Form
     {

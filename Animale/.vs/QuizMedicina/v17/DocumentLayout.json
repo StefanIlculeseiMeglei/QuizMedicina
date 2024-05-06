@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Quiz\\Animale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formadministrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstartup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstartup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\formstudent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\formstudent.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|d:\\repos\\quiz\\animale\\animale_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B635965-3F15-4E93-AC0C-66E043700D5A}|Animale_winForm\\Quiz_winForm.csproj|solutionrelative:animale_winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQuiz.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormQuiz.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormQuiz.cs",
+              "RelativeToolTip": "Animale_winForm\\FormQuiz.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:19:45.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQuiz.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormQuiz.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormQuiz.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\FormQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:19:24.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAdministrator.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormAdministrator.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormAdministrator.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormAdministrator.cs",
+              "RelativeToolTip": "Animale_winForm\\FormAdministrator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:46:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormStudent.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStudent.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\FormStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:32:57.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStudent.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStudent.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.cs",
+              "RelativeToolTip": "Animale_winForm\\FormStudent.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAqwEoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:41:53.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdministrator.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormAdministrator.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormAdministrator.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormAdministrator.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\FormAdministrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:34:07.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProfesor.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormProfesor.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormProfesor.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormProfesor.cs",
+              "RelativeToolTip": "Animale_winForm\\FormProfesor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:45:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormProfesor.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormProfesor.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormProfesor.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormProfesor.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\FormProfesor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:33:24.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormStartUp.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStartUp.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.cs",
+              "RelativeToolTip": "Animale_winForm\\FormStartUp.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAzwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:25:35.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormStartUp.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStartUp.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\FormStartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:23:26.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormStartUp.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.Designer.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStartUp.Designer.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStartUp.Designer.cs",
+              "RelativeToolTip": "Animale_winForm\\FormStartUp.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:27:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormStudent.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.Designer.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStudent.Designer.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.Designer.cs",
+              "RelativeToolTip": "Animale_winForm\\FormStudent.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:42:19.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormStudent.resx",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.resx",
+              "RelativeDocumentMoniker": "Animale_winForm\\FormStudent.resx",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\FormStudent.resx",
+              "RelativeToolTip": "Animale_winForm\\FormStudent.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-06T01:45:19.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Program.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\Program.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Program.cs",
+              "RelativeToolTip": "Animale_winForm\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:28:23.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\Form1.Designer.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Form1.Designer.cs",
+              "RelativeToolTip": "Animale_winForm\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:27:06.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Animale_winForm\\Form1.cs",
+              "ToolTip": "D:\\Repos\\Quiz\\Animale\\Animale_winForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Animale_winForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T01:22:29.753Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,10 @@
     "",
     "\\Animale",
     "\\Animale\\Animale_Consola",
+    "\\Animale\\Animale_winForm",
+    "\\Animale\\Animale_winForm\\Properties",
     "\\Animale\\LibrarieModele"
   ],
-  "SelectedNode": "\\Animale\\Animale.sln",
+  "SelectedNode": "\\Animale\\Animale_winForm\\FormQuiz.cs",
   "PreviewInSolutionExplorer": false
 }

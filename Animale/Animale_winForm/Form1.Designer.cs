@@ -1,4 +1,4 @@
-﻿namespace Animale_Form
+﻿namespace Quiz_Form
 {
     partial class Form1
     {

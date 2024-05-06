@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Animale_Form
+namespace Quiz_Form
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Animale_Form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormStartUp());
         }
     }
 }
