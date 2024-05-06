@@ -1,0 +1,21 @@
+Fisier cu imagini
+1;pisica.jpg;
+2;cal.jpg;
+3;vultur.jpg;
+4;lup.jpg;
+5;caine.jpg;
+6;urs.jpg;
+7;zebra.jpg;
+8;leu.jpg;
+9;sarpe.jpg;
+10;soarece.jpg;
+11;tigru.jpg;
+12;papagal.jpg;
+13;delfin.jpg;
+14;balena.jpg;
+15;maimuta.jpg;
+16;porc.jpg;
+17;oaie.jpg;
+18;vaca.jpg;
+19;elefant.jpg;
+20;rinocer.jpg;
